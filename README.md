@@ -104,5 +104,5 @@
 ---
 
 <p align="center">
-  <i>Developed with passion during the Excelerate Remote Internship Program.</i>
+  <i>Developed with passion during the Excelerate Remote Internship Program (6 April, 2026 – 6 May, 2026).</i>
 </p>
